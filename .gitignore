@@ -358,6 +358,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+C:\Users\User\Desktop\MyInventory\appsettings.json
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
